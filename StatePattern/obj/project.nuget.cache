@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jg+UJeFeg4jvDG1o1c+/64liy3AZTBJ8FX0j09suxIkWGN6CxjkZ7c5PxOL9yRYluiUV8/cg67mxA9depW/1QQ==",
+  "success": true,
+  "projectFilePath": "/Users/sonia/Downloads/StatePatterDemo/StatePattern/StatePattern.csproj",
+  "expectedPackageFiles": [
+    "/Users/sonia/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
